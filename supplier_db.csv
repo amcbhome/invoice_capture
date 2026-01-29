@@ -1,0 +1,21 @@
+supplier_id,name,keywords,category,gl_code,vat_rate,typical_value
+SUP01,Atlas FM Ltd,"atlas,cleaning,facilities",Cleaning Services,4200,0.20,1250
+SUP02,BT Business,"bt,british telecom,telecoms,phone",Telecommunications,4300,0.20,300
+SUP03,Scottish Power,"scottish power,electricity,energy,power",Utilities,4310,0.20,1800
+SUP04,Virgin Media Business,"virgin,media,broadband,internet",Internet Services,4300,0.20,450
+SUP05,Office Depot UK,"office depot,stationery,office supplies",Stationery,4100,0.20,220
+SUP06,Screwfix Direct,"screwfix,tools,hardware,trade",Maintenance Supplies,4150,0.20,600
+SUP07,Dell UK Ltd,"dell,laptop,pc,computer,it equipment",IT Equipment,4400,0.20,1500
+SUP08,Canon UK,"canon,printer,toner,photocopier",Printing & Imaging,4410,0.20,350
+SUP09,Lyreco UK,"lyreco,office,consumables,paper",Office Supplies,4100,0.20,200
+SUP10,Veolia Waste Services,"veolia,waste,refuse,recycling",Waste Management,4250,0.20,900
+SUP11,Staples Furniture Solutions,"staples,furniture,desk,chair",Office Furniture,4420,0.20,1200
+SUP12,Rentokil Initial,"rentokil,pest,control,hygiene",Pest Control,4260,0.20,275
+SUP13,City Plumbing Supplies,"city plumbing,plumbing,pipe,repair",Repairs & Maintenance,4150,0.20,480
+SUP14,Howdens Joinery,"howdens,joinery,kitchen,doors,fittings",Fittings & Joinery,4150,0.20,1100
+SUP15,Royal Mail Group,"royal mail,postage,mail,delivery",Postage & Courier,4320,0.00,150
+SUP16,Amazon Business UK,"amazon,business,online,marketplace",General Supplies,4100,0.20,500
+SUP17,Halfords Autocentre Trade,"halfords,vehicle,fleet,tyres,car",Fleet & Vehicles,4500,0.20,850
+SUP18,Mitie Facilities Management,"mitie,facilities,security,maintenance",Facilities Services,4200,0.20,2100
+SUP19,Karcher UK Ltd,"karcher,cleaning machines,equipment hire",Equipment Hire,4450,0.20,700
+SUP20,Wolseley Industrial UK,"wolseley,industrial,parts,engineering",Industrial Parts,4150,0.20,950
